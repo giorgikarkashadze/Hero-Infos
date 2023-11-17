@@ -1,0 +1,35 @@
+*{
+    color: rgb(197, 197, 197);
+    text-align: center;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.952);
+}
+
+.container{
+    padding: 100px;
+}
+
+.search{
+    margin: 25px;
+    border-radius: 30px;
+    background-color: brown;
+    color: rgb(0, 0, 0);
+}
+
+.SearchButton{
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 10px;
+    border-color: rgb(0, 0, 0);
+}
+.newHeroButton{
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 10px;
+    border-color: rgb(0, 0, 0);
+}
+.color{
+    color:brown;
+}
